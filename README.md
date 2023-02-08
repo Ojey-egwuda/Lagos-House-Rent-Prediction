@@ -1,7 +1,7 @@
 # Lagos-House-Rent-Prediction
 
 ## Overview
-The aim of this project is to build a linear regression model to predict Lagos house rent prices from https://nigeriapropertycentre.com , Nigeria Property Centre is a real estate and property website in Nigeria with property listings for sale, rent and lease. they offer Nigerian property seekers an easy way to find details of property like homes, houses, lands, shops, office spaces and other commercial properties to buy or rent. Nigeria Property Centre provides a platform for advertising property from organisations and Nigerian private property owners.
+The aim of this project is to build a linear regression model to predict Lagos house rent prices listed on https://nigeriapropertycentre.com , Nigeria Property Centre is a real estate and property website in Nigeria with property listings for sale, rent and lease. they offer Nigerian property seekers an easy way to find details of property like homes, houses, lands, shops, office spaces and other commercial properties to buy or rent. Nigeria Property Centre provides a platform for advertising property from organisations and Nigerian private property owners.
 
 ## Dataset
 The Dataset for this project was provided by DataLab Nigeria as part of the Data Science and Machine Learning Internship.
